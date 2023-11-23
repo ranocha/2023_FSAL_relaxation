@@ -1,0 +1,17 @@
+{
+    "license": "MIT",
+    "title": "Reproducibility repository for Step size control for explicit relaxation Runge-Kutta methods preserving invariants",
+    "upload_type": "software",
+    "creators": [
+        {
+            "affiliation": "Institute of Mathematics, Johannes Gutenberg University Mainz, Germany",
+            "name": "Bleecke, Sebastian"
+        },
+        {
+            "affiliation": "Institute of Mathematics, Johannes Gutenberg University Mainz, Germany",
+            "name": "Ranocha, Hendrik",
+            "orcid": "0000-0002-3456-2277"
+        }
+    ],
+    "access_right": "open"
+}
