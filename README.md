@@ -10,10 +10,12 @@ article
   title={Step size control for explicit relaxation {R}unge-{K}utta
          methods preserving invariants},
   author={Bleecke, Sebastian and Ranocha, Hendrik},
+  year={2023},
+  month={11},
+  doi={10.48550/arXiv.2311.14050},
   eprint={2311.14050},
   eprinttype={arxiv},
-  eprintclass={math.NA},
-  doi={10.48550/arXiv.2311.14050}
+  eprintclass={math.NA}
 }
 ```
 
